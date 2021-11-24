@@ -265,6 +265,7 @@ fn main() {
         "siphash.h",
         "srtp.h",
         "trust_token.h",
+        "x509_vfy.h",
         "x509v3.h",
     ];
     for header in &headers {
